@@ -1,0 +1,23 @@
+---
+layout: liu_people
+status: publish
+published: true
+title: Thuy Luu
+author:
+  display_name: admin
+  login: admin
+  email: tim.smith@uci.edu
+  url: ''
+author_login: admin
+author_email: tim.smith@uci.edu
+wordpress_id: 229
+wordpress_url: http://liu.bme.uci.edu/?post_type=liu_people&#038;p=229
+date: '2013-10-03 22:02:44 -0700'
+date_gmt: '2013-10-03 22:02:44 -0700'
+categories:
+- Doctoral Students
+- People
+tags: []
+comments: []
+---
+<p>BS, Biochemistry, University of California, Los Angeles.</p>

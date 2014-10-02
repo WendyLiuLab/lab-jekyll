@@ -1,0 +1,146 @@
+/*
+Theme Name: Liu Lab
+Description:    Theme for the Wendy Liu laboratory at UC Irvine
+Author: Tim Smith <tim.smith@uci.edu>
+Author URI: http://tim-smith.us
+Template:   roots
+Version:    0.1
+ */
+
+body {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    background-image: url('/assets/stitched_wool.png');
+}
+
+body.home {
+    background-image: none;
+}
+
+.sidebar-nav {
+    padding: 9px 0;
+}
+
+/*.footspan {
+background-color: #333; color: #fff;
+-webkit-border-radius: 8px; -moz-border-radius: 8px; border-radius: 8px;
+} */
+
+.header { font-family: Open Sans; }
+.home .header { color: white; }
+.header h1 { font-size: 36pt; line-height: 55pt; margin: 10px; font-weight: normal; }
+.header h1 a { color: inherit; }
+.header nav ul { margin-top: 48px; text-align: right; margin-right: 2em; }
+.header nav li { display: inline;  font-size: 16pt; }
+.header nav li a { color: #99badd; }
+.header nav li:after { display: inline; content: ' / '; color: #666; }
+.header nav li:last-of-type:after { content: none; }
+
+.hero-background {
+    position: fixed;
+    z-index: -2;
+    top: 0;
+    width: 100%;
+}
+
+.home .hero-background {
+    background-image: url('/assets/eric-bg-hi.jpg');
+    height: 500px;
+    background-repeat: repeat;
+}
+
+.home .news h2 a, .home .research h2 a { color: black; }
+
+.hero-unit { text-align: center; background-color: transparent; color: white; margin-bottom: -2em; font-family: Open Sans, sans-serif;}
+.hero-unit h1 { margin-bottom: 10px; font-family: Merriweather, serif; font-weight: normal; font-size: 24pt; }
+
+.image_header {
+    height: 200px;
+    background-image: url('/assets/eric-bg-hi.jpg');
+    background-repeat: repeat;
+}
+
+body.people .image_header {
+    background-image: url('/assets/yoon1.jpg');
+}
+
+body.publications .image_header {
+    background-image: url('/assets/il4il13.jpg');
+}
+
+body.contact .image_header { /* contact page */
+    background-image: url('/assets/eng3banner.jpg');
+}
+
+body.research .image_header { /* research page */
+    background-image: url('/assets/lanes.jpg');
+}
+
+article, .artstyle {
+    border: thin solid #ccc; margin-top: 10px; margin-bottom: 10px;
+    background: rgba(255,255,255,0.3);
+    box-shadow: 2px 2px 2px #ccc;
+    padding: 10px;
+    position: relative;
+    -webkit-border-radius: 8px; -moz-border-radius: 8px; border-radius: 8px;
+}
+
+article h3 {
+    margin-right: 100px;
+}
+
+article time {
+    position: absolute;
+    right: 12px;
+    top: 13px;
+    color: #aaa;
+}
+
+section.main { 
+    background-color: white;
+    background-image: url('/assets/stitched_wool.png');
+    padding-top: 3em; padding-left: 30px; padding-right: 30px; padding-bottom: 3em;
+    margin-left: -20px; margin-right: -20px;
+    font-family: Open Sans;
+}
+
+section.research { margin-right: 10px; }
+section.news { margin-left: 10px; }
+
+footer#content-info {
+    color: #ccc;
+    background: #333;
+    margin-top: 3em;
+    margin-bottom: -5em;
+    margin-left: -20px;
+    margin-right: -20px;
+    padding: 1em;
+    -webkit-box-shadow: inset 0px 5px 5px 0px rgba(0, 0, 0, .8);
+    box-shadow: inset 0px 5px 5px 0px rgba(0, 0, 0, .8);
+}
+
+/* this is ugly and wrong and you don't see it */
+.home footer#content-info {
+    margin-top: 0;
+}
+
+h2, h3 { font-family: Open Sans; }
+
+.noborder { border: none; }
+.noborder td { border: none; }
+
+.detop tr:first-of-type td { border: none; }
+
+body.publications tr:hover td
+{ background: inherit; }
+
+body.page #main article { min-height: 300px; }
+
+body.publications #main table img {
+	width: 100px;
+	height: 100px;
+	-webkit-box-shadow: 4px 4px 5px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    4px 4px 5px rgba(50, 50, 50, 0.75);
+	box-shadow:         4px 4px 5px rgba(50, 50, 50, 0.75);
+}
+body.people #main table td { vertical-align: middle; font-size: larger; }

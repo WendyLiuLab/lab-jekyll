@@ -1,0 +1,19 @@
+---
+title: People
+class: people
+---
+
+{% include header.html %}
+<div class="row-fluid"><div class="span12 image_header">&nbsp;</div></div>
+<div id="main" role="main">
+    <div class="page-header">
+        <h1>People</h1>
+    </div>
+    {% include_relative partial.html title="Principal Investigator" category="pi" %}
+    {% include_relative partial.html title="Doctoral Students" category="phd" %}
+    {% include_relative partial.html title="Masters Students" category="ms" %}
+    {% include_relative partial.html title="Undergraduates" category="bs" %}
+    {% include_relative partial.html title="Alumni" category="alumni" %}
+</div>
+
+{% include footer.html %}

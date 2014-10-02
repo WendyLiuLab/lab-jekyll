@@ -1,0 +1,30 @@
+<div class="row-fluid" style='margin-top:2em; margin-bottom:1em;'>
+    <div class="span12">
+        <h1>{{ include.title }}</h1>
+    </div>
+</div>
+
+<div class="row-fluid"><div class="span12 artstyle">
+        <table class='table detop'><tbody>
+                {% assign lastyear = 0 %}
+                {% for pub in site.publications reversed %}
+                {% if pub.categories contains include.category %}
+                {% capture thisyear %}{{pub.date | date: '%Y'}}{% endcapture %}
+                {% if thisyear != lastyear %}
+                <tr><td colspan='2'><h2>{{ thisyear }}</h2></td></tr>
+                {% endif %}
+                {% assign lastyear = thisyear %}
+
+                <tr style="vertical-align: top;">
+                    <td style='text-align: center;
+                        width: 300px;'>
+                        <!-- if(has_post_thumbnail()) { the_post_thumbnail('thumbnail'); } -->
+                    </td>
+                    <td>{{ pub.output }}</td>
+                </tr>
+                {% endif %}
+                {% endfor %}
+
+        </tbody></table>
+    </div><!--/span-->
+</div><!--/row-fluid-->

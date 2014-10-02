@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: 2012 Pumpkin Carving Contest
+author:
+  display_name: admin
+  login: admin
+  email: tim.smith@uci.edu
+  url: ''
+author_login: admin
+author_email: tim.smith@uci.edu
+wordpress_id: 179
+wordpress_url: http://liu.bme.uci.edu/?p=179
+date: '2012-10-20 23:18:03 -0700'
+date_gmt: '2012-10-20 23:18:03 -0700'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>The results of the Liu Lab's hotly contested first annual pumpkin carving contest are in!</p>
+<p>Here are proud winners Frances and Chase with their victorious gourd, featuring an anteater on the front (zot!) and a proud UCI inscription on the reverse:</p>
+<p style="text-align: center;"><a href="http://liu.bme.uci.edu/assets/IMG_20121017_163822.jpg"><img class="aligncenter size-medium wp-image-184" title="Chase Frances pumpkin" src="http://liu.bme.uci.edu/assets/IMG_20121017_163822-300x225.jpg" alt="" width="300" height="225" /></a></p><br />
+&nbsp;</p>
+<p>The winning design came from a strong field of squash:</p>
+<p><a href="http://liu.bme.uci.edu/assets/IMG_20121017_163848.jpg"><img class="aligncenter size-medium wp-image-185" title="IMG_20121017_163848" src="http://liu.bme.uci.edu/assets/IMG_20121017_163848-300x225.jpg" alt="" width="300" height="225" /></a></p>
+<p>including an <a href="https://www.facebook.com/photo.php?v=513369288816">animated Pac-Man scene</a>.</p>
+<p>Thanks to Professors Botvinick and Kheradvar for judging!</p>
