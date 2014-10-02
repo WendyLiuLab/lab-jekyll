@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: Corrosion and in vitro biocompatibility properties of cryomilled-spark plasma
@@ -20,10 +19,5 @@ categories:
 tags: []
 comments: []
 ---
-<div title="Page 3">
-<div>
-<div>
 <p>Dheda S.S., Kim Y.K., Melnyk C., Liu W., Mohamed F.A. (2013) Corrosion and in vitro biocompatibility properties of cryomilled-spark plasma sintered commercially pure titanium. J Mater Sci Mater Med. 24(5):1239-49.</p>
-<p></div><br />
-</div><br />
-</div></p>
+

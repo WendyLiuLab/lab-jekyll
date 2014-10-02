@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: Engineering Cell Adhesion

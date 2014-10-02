@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: 'An inhibitory role for FAK in regulating cell proliferation: a link between

@@ -1,5 +1,4 @@
 ---
-layout: liu_people
 status: publish
 published: true
 title: Thanh Chung
@@ -18,5 +17,6 @@ categories:
 - Undergraduates
 tags: []
 comments: []
+image: thanh.jpg
 ---
 

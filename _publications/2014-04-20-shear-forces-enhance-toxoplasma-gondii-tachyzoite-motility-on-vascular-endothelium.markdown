@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: Shear Forces Enhance Toxoplasma gondii Tachyzoite Motility on Vascular Endothelium
@@ -19,4 +18,4 @@ categories:
 tags: []
 comments: []
 ---
-<p class="p1">Harker KS, Jivan E, McWhorter FY, Liu WF, Lodoen MB.&nbsp; (2014) Shear Forces Enhance Toxoplasma gondii Tachyzoite Motility on Vascular Endothelium.&nbsp; <i>MBio. </i>5(2):<i> </i>01111-13. <a href="http://dx.doi.org/10.1128/mBio.01111-13">doi:10.1128/mBio.01111-13</a></p></p>
+<p class="p1">Harker KS, Jivan E, McWhorter FY, Liu WF, Lodoen MB.&nbsp; (2014) Shear Forces Enhance Toxoplasma gondii Tachyzoite Motility on Vascular Endothelium.&nbsp; <i>MBio. </i>5(2):<i> </i>01111-13. <a href="http://dx.doi.org/10.1128/mBio.01111-13">doi:10.1128/mBio.01111-13</a></p>

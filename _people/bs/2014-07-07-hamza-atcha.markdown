@@ -1,5 +1,4 @@
 ---
-layout: liu_people
 status: publish
 published: true
 title: Hamza Atcha

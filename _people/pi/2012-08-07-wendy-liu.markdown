@@ -1,5 +1,4 @@
 ---
-layout: liu_people
 status: publish
 published: true
 title: Wendy Liu, Ph.D.
@@ -18,6 +17,7 @@ categories:
 - Principal Investigator
 tags: []
 comments: []
+image: Wendy-headshot-crop-300x300.jpeg
 ---
 <p>Assistant Professor, Biomedical Engineering<br />
 Assistant Professor, Chemical Engineering and Materials Science<br />

@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: Manipulation of 3D Cluster Size and Geometry by Release from 2D Micropatterns
@@ -19,10 +18,4 @@ categories:
 tags: []
 comments: []
 ---
-<div title="Page 3">
-<div>
-<div>
 <p>Leight, J.L., Liu, W.F., Chaturvedi R.R., Chen S., Yang M.T., Raghavan S., Chen C.S. (2012) Manipulation of 3D Cluster Size and Geometry by Release from 2D Micropatterns. Cell and Mol Bioengineering. 5(3):299-306.</p>
-<p></div><br />
-</div><br />
-</div></p>

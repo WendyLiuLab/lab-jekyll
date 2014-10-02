@@ -1,5 +1,4 @@
 ---
-layout: liu_people
 status: publish
 published: true
 title: Chase Davis
@@ -18,5 +17,6 @@ categories:
 - Masters Students
 tags: []
 comments: []
+image: chase-unicorn.jpg
 ---
 <p>B.S., Biomedical Engineering, UC Irvine.</p>

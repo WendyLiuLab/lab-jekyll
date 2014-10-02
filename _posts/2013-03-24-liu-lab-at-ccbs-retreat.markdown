@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Liu Lab at CCBS Retreat
@@ -19,5 +18,5 @@ categories:
 tags: []
 comments: []
 ---
-<p><a href="http://liu.bme.uci.edu/assets/logo.png"><img class="aligncenter size-full wp-image-213" alt="logo" src="http://liu.bme.uci.edu/assets/logo.png" width="166" height="100" /></a></p>
+<p><a href="/assets/logo.png"><img class="aligncenter size-full wp-image-213" alt="logo" src="/assets/logo.png" width="166" height="100" /></a></p>
 <p>Frances will be presenting a poster at the 2013 UCI <a href="http://ccbs.uci.edu/">Center for Complex Biological Systems</a> retreat at Universal Studios Hollywood. We'll see you there!</p>

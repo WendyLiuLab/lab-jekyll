@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: NIH Director&rsquo;s New Innovator Award

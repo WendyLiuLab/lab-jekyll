@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: Manipulation of cell-cell adhesion using bowtie-shaped microwells

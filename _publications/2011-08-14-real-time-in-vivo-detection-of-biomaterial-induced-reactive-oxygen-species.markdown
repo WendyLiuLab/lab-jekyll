@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: Real-time in vivo detection of biomaterial-induced reactive oxygen species

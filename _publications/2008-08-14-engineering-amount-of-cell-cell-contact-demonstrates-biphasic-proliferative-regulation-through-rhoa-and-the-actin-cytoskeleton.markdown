@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: Engineering amount of cell-cell contact demonstrates biphasic proliferative

@@ -1,5 +1,4 @@
 ---
-layout: liu_people
 status: publish
 published: true
 title: Tim D. Smith
@@ -18,6 +17,7 @@ categories:
 - Doctoral Students
 tags: []
 comments: []
+image: tim-e1344970253515-300x300.gif
 ---
 <p>BS, Engineering, Olin College (Needham, MA).</p>
 <p>NSF Graduate Research Fellowship Program, 2013.</p>

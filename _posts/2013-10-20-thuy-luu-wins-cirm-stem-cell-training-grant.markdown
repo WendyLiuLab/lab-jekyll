@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Thuy Luu wins CIRM Stem Cell Training Grant

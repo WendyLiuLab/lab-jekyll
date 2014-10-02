@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: Toxoplasma gondii modulates the dynamics of human monocyte adhesion to vascular
@@ -20,10 +19,5 @@ categories:
 tags: []
 comments: []
 ---
-<div title="Page 3">
-<div>
-<div>
 <p>Harker K.S., Ueno N., Wang T., Bonhomme C., Liu W., Lodoen M.B. (2013) Toxoplasma gondii modulates the dynamics of human monocyte adhesion to vascular endothelium under fluidic shear stress. J Leukoc Biol. 93(5)789-800.</p>
-<p></div><br />
-</div><br />
-</div></p>
+

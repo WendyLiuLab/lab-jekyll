@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: Rac-dependent cyclin D1 gene expression regulated by cadherin- and integrin-mediated

@@ -1,5 +1,4 @@
 ---
-layout: liu_people
 status: publish
 published: true
 title: Seunghyun Ha
@@ -18,6 +17,7 @@ categories:
 - Alumni
 tags: []
 comments: []
+image: ha-150x150.png
 ---
 <p>BS, Advanced Materials Science and Engineering, Sung Kyun Kwan University (Seoul, Korea).<br />
 MS, Liu Lab, 2013.</p>

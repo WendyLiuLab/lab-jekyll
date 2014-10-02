@@ -1,5 +1,4 @@
 ---
-layout: liu_people
 status: publish
 published: true
 title: Jessica Hsieh
@@ -18,6 +17,7 @@ categories:
 - Doctoral Students
 tags: []
 comments: []
+image: jhsieh.jpg
 ---
 <p>B.S., Bioengineering: Biotechnology, UCSD.</p>
 <p>Graduate Cardiovascular Applied Research and Entrepreneurship fellowship&nbsp;(NIH T32) recipient</p>

@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: Cell polarity triggered by cell-cell adhesion via E-cadherin

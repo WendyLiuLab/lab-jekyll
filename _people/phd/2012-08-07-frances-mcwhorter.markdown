@@ -1,5 +1,4 @@
 ---
-layout: liu_people
 status: publish
 published: true
 title: Frances McWhorter
@@ -18,6 +17,7 @@ categories:
 - Doctoral Students
 tags: []
 comments: []
+image: frances-headshot-300x200.jpg
 ---
 <p>BS, Biomedical Engineering, University of North Carolina at Chapel Hill.</p>
 <p>Systems Biology of Development training grant (NIH T32) recipient</p>

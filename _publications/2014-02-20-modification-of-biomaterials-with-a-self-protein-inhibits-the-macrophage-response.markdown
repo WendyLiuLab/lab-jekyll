@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: Modification of Biomaterials with a Self-Protein Inhibits the Macrophage Response
@@ -19,4 +18,4 @@ categories:
 tags: []
 comments: []
 ---
-<p class="p1"><span class="s1">Kim YK, Que R, Wang SW, Liu WF.</span> &nbsp;(2014) Modification of Biomaterials with a Self-Protein Inhibits the Macrophage Response.&nbsp; <i>Adv. Healthcare Mat.&nbsp; </i>Feb 20. &nbsp;<a href="http://dx.doi.org/10.1002/adhm.201300532">doi:10.1002/adhm.201300532</a></p></p>
+<p class="p1"><span class="s1">Kim YK, Que R, Wang SW, Liu WF.</span> &nbsp;(2014) Modification of Biomaterials with a Self-Protein Inhibits the Macrophage Response.&nbsp; <i>Adv. Healthcare Mat.&nbsp; </i>Feb 20. &nbsp;<a href="http://dx.doi.org/10.1002/adhm.201300532">doi:10.1002/adhm.201300532</a></p>

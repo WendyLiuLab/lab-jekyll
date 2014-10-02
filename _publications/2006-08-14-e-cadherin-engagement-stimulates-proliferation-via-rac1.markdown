@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: E-cadherin engagement stimulates proliferation via Rac1

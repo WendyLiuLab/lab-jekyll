@@ -10,8 +10,11 @@
                         <td style='text-align: center;
                             padding-top: 12px;
                             width: 300px'>
-                            <!-- <?php if(has_post_thumbnail()) { the_post_thumbnail('thumbnail'); } -->
+                            {% if person.image %}
+                            <img src="/assets/people/{{ person.image }}" width="200">
+                            {% else %}
                             <i class="icon-user"></i>
+                            {% endif %}
                         </td>
                         <td>
                             <h3>{{ person.title }}</h3>

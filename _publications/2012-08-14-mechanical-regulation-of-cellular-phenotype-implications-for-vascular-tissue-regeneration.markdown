@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: 'Mechanical regulation of cellular phenotype: implications for vascular tissue

@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: Emergent patterns of growth controlled by multicellular form and mechanics

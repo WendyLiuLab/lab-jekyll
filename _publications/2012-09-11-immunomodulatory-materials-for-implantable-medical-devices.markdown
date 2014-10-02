@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: Immunomodulatory materials for implantable medical devices.
@@ -19,6 +18,4 @@ categories:
 tags: []
 comments: []
 ---
-<div title="Page 4">
 <p>Liu W.F., Kim Y.K.. Immunomodulatory materials for implantable medical devices.&nbsp;U.S. Provisional Application, Filing Date: September, 2012.</p>
-<p></div></p>

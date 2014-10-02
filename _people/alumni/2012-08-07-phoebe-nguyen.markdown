@@ -1,5 +1,4 @@
 ---
-layout: liu_people
 status: publish
 published: true
 title: Phoebe Nguyen
@@ -18,5 +17,6 @@ categories:
 - Alumni
 tags: []
 comments: []
+image: Phoebe_Lab_Website_Headshot-150x150.jpg
 ---
 <p>BS, Biomedical Engineering: Premed, UC Irvine.</p>

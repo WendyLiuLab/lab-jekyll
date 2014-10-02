@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: Poly (beta-amino alcohols), their preparation and uses thereof

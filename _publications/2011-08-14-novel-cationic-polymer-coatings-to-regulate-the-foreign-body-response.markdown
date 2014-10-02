@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: Novel cationic polymer coatings to regulate the foreign body response

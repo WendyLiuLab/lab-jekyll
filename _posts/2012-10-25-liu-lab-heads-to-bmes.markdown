@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Liu Lab heads to BMES
@@ -26,4 +25,4 @@ comments: []
 <li>Frances Ni (P-Fri-A-184) will discuss "A micropatterning approach to investigate the role of cell shape on macrophage polarization."</li>
 <li>Finally, Tingting Wang (OP-Fri-2-5) will present on "Topographical Modulation of Macrophage Phenotype by Shrink-film Multi-scale Wrinkles."</li><br />
 </ul><br />
-We'll look forward to seeing you!</p>
+We'll look forward to seeing you!

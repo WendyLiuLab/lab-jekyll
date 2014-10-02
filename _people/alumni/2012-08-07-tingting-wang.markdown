@@ -1,5 +1,4 @@
 ---
-layout: liu_people
 status: publish
 published: true
 title: Tingting Wang, Ph.D.
@@ -18,6 +17,7 @@ categories:
 - Alumni
 tags: []
 comments: []
+image: tingting.jpg
 ---
 <p>BS, Biomedical Engineering, Shanghai Jiao Tong University.<br />
 MS, Biomedical Engineering, Shanghai Jiao Tong University.<br />

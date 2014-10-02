@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: Cadherins, RhoA and Rac1 are differentially required for stretch-mediated proliferation

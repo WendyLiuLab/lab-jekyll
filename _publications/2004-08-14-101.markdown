@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: Simple approach to micropattern cells on common culture substrates by tuning

@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Happy holidays!
@@ -21,4 +20,4 @@ comments: []
 ---
 <p>
 From the Liu and Haun labs, warm wishes for a happy holiday season and a joyful and illuminating new year!</p>
-<p>[caption id="attachment_202" align="aligncenter" width="300"]<a href="http://liu.bme.uci.edu/assets/PC190118.jpg"><img class="size-medium wp-image-202" alt="Liu-Haun Holiday Party 2012" src="http://liu.bme.uci.edu/assets/PC190118-300x225.jpg" width="300" height="225" /></a> Liu-Haun Holiday Party 2012[/caption]</p>
+<p><a href="/assets/PC190118.jpg"><img class="size-medium wp-image-202" alt="Liu-Haun Holiday Party 2012" src="/assets/PC190118-300x225.jpg" width="300" height="225" /></a> Liu-Haun Holiday Party 2012</p>

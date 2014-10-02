@@ -1,5 +1,4 @@
 ---
-layout: liu_publication
 status: publish
 published: true
 title: Real-time imaging of infected human monocytes under fluidic shear stress reveals
@@ -21,4 +20,4 @@ categories:
 tags: []
 comments: []
 ---
-<p class="p1"><span class="s1">Ueno N, Harker KS, Clarke EV, McWhorter FY, Liu WF, Tenner AJ, Lodoen MB.</span>&nbsp;(2013) Real-time imaging of infected human monocytes under fluidic shear stress reveals rapid translocation of intracellular parasites across endothelial barriers.<i> Cell Microbiol. </i>Dec 4.&nbsp;<a href="http://dx.doi.org/10.1111/cmi.12239">doi:10.1111/cmi.12239</a></p></p>
+<p class="p1"><span class="s1">Ueno N, Harker KS, Clarke EV, McWhorter FY, Liu WF, Tenner AJ, Lodoen MB.</span>&nbsp;(2013) Real-time imaging of infected human monocytes under fluidic shear stress reveals rapid translocation of intracellular parasites across endothelial barriers.<i> Cell Microbiol. </i>Dec 4.&nbsp;<a href="http://dx.doi.org/10.1111/cmi.12239">doi:10.1111/cmi.12239</a></p>

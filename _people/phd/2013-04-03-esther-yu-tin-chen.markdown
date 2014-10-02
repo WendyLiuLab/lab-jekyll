@@ -1,5 +1,4 @@
 ---
-layout: liu_people
 status: publish
 published: true
 title: Esther Yu-Tin Chen
@@ -18,5 +17,6 @@ categories:
 - Doctoral Students
 tags: []
 comments: []
+image: Esther-Chen-225x300.jpg
 ---
 <p>BS, Chemical and Materials Engineering, Chang Gung University, Taiwan.</p>

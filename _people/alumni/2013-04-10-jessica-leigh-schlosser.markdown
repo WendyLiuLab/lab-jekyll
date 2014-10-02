@@ -1,5 +1,4 @@
 ---
-layout: liu_people
 status: publish
 published: true
 title: Jessica Leigh Schlosser
@@ -18,6 +17,7 @@ categories:
 - Alumni
 tags: []
 comments: []
+image: jessica.jpeg
 ---
 <p>B.S., Bioengineering, UCLA.</p>
 <p>M.S., Biomedical Engineering, Liu Lab, 2014.</p>

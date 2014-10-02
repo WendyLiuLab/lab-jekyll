@@ -1,5 +1,4 @@
 ---
-layout: liu_people
 status: publish
 published: true
 title: Yoon Kyung Kim
@@ -19,6 +18,7 @@ categories:
 - People
 tags: []
 comments: []
+image: Yoon.jpg
 ---
 <p>PhD, Liu Lab, 2013.<br />
 MS, Biomedical Engineering, Case Western Reserve University (Cleveland, OH).</p>
