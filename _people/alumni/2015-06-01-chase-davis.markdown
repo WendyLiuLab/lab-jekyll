@@ -19,4 +19,6 @@ tags: []
 comments: []
 image: chase-unicorn.jpg
 ---
-<p>B.S., Biomedical Engineering, UC Irvine.</p>
+B.S., Biomedical Engineering, UC Irvine.
+
+M.S., Biomedical Engineering, Liu Lab, 2015.
