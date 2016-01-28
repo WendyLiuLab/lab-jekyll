@@ -20,3 +20,4 @@ comments: []
 image: thanh.jpg
 ---
 
+B.S., Biomedical Engineering, UC Irvine, 2015.
