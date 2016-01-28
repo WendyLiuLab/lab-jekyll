@@ -19,6 +19,12 @@ tags: []
 comments: []
 image: frances-headshot-300x200.jpg
 ---
-<p>BS, Biomedical Engineering, University of North Carolina at Chapel Hill.</p>
-<p>Systems Biology of Development training grant (NIH T32) recipient</p>
-<p>ORCID:&nbsp;<a href="http://orcid.org/0000-0002-0342-5843">0000-0002-0342-5843</a></p>
+BS, Biomedical Engineering, University of North Carolina at Chapel Hill.
+
+MS/PhD, Biomedical Engineering, Liu Lab, 2015.
+
+Currently: FDA, Silver Spring, MD
+
+Systems Biology of Development training grant (NIH T32) recipient
+
+ORCID:&nbsp;<a href="http://orcid.org/0000-0002-0342-5843">0000-0002-0342-5843</a>
