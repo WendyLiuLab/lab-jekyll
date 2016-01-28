@@ -1,6 +1,6 @@
 _site
 *.swp
 *.swo
-Gemfile
 Gemfile.lock
 .DS_Store
+.bundle
