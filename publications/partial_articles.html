@@ -6,8 +6,18 @@
 
 <div class="row-fluid"><div class="span12 artstyle">
         <table class='table detop'><tbody>
+                {% assign lastyear = 0 %}
                 {% for pub in site.publications reversed %}
                 {% if pub.categories contains include.category %}
+                {% capture thisyear %}{{pub.date | date: '%Y'}}{% endcapture %}
+                {% if lastyear == 0 %}
+                <tr><td colspan='2'><h2>UC Irvine</h2></td></tr>
+                {% endif %}
+                {% if thisyear != lastyear and thisyear == "2011" %}
+                <tr><td colspan='2'><h2>Prior to UCI</h2></td></tr>
+                {% endif %}
+                {% assign lastyear = thisyear %}
+
                 <tr style="vertical-align: top;">
                     <td style='text-align: center;
                         width: 50px;'>
